@@ -6,3 +6,6 @@ data/*.csv
 !data/.gitkeep
 .Rhistory
 .RData
+GDCdata/
+*.rds
+data/_tmp_*.csv

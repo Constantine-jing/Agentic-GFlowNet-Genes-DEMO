@@ -1,0 +1,8 @@
+{
+  "dataset": "synthetic",
+  "n_truth": 15,
+  "best_subset_overlap": 14,
+  "best_subset_reward": 2.69430365330914,
+  "most_sampled_overlap": 2,
+  "top10_majority_recovery": 10
+}

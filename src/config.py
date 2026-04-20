@@ -18,8 +18,16 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = REPO_ROOT / "data"
 
 # --- change this line to switch datasets ---
-DATASET = "synthetic"
+DATASET = "tcga_brca"
 # -------------------------------------------
+
+# --- reward backend ---
+# "python" = scipy t-test, fast (~0.001s/call), good for dev & iteration
+# "r"      = limma eBayes, slow (~2.5s/call), gold-standard for final results
+# Both produce the same score formula. On large sample sizes (TCGA ~1200)
+# the rankings are nearly identical.
+REWARD_BACKEND = "python"
+# ----------------------
 
 DATASETS = {
     "synthetic": {

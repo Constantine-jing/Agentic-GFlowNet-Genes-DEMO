@@ -1,0 +1,12 @@
+{
+  "project": "TCGA-BRCA",
+  "slug": "tcga_brca",
+  "n_genes": 2000,
+  "n_samples": 1224,
+  "n_tumor": 1111,
+  "n_normal": 113,
+  "top_n_genes": 2000,
+  "min_count": 10,
+  "normalization": "TMM + voom (log2-CPM)",
+  "fetched_at": "2026-04-20T12:08:56-0500"
+}

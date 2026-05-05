@@ -1,0 +1,68 @@
+{
+  "dataset": "tcga_brca",
+  "rounds": [
+    {
+      "round": 1,
+      "best_reward": 4.533015251159668,
+      "final_mean_reward": 1.8621472120285034,
+      "unique_explored": 2400,
+      "top_genes": [
+        "LINCADL",
+        "CD300LG",
+        "LEP",
+        "LINC01705",
+        "IBSP",
+        "PTPRQ",
+        "C1QL2",
+        "CPA1",
+        "GLRA3",
+        "FMO2"
+      ],
+      "critic_continue": true,
+      "elapsed_seconds": 37.9
+    },
+    {
+      "round": 2,
+      "best_reward": 4.3443121910095215,
+      "final_mean_reward": 1.532588243484497,
+      "unique_explored": 2400,
+      "top_genes": [
+        "GLYAT",
+        "PI16",
+        "WIF1",
+        "ADGRD2",
+        "CADM3-AS1",
+        "KY",
+        "CST2",
+        "GSTA1",
+        "SLCO1A2",
+        "DEFB132"
+      ],
+      "critic_continue": true,
+      "elapsed_seconds": 37.8
+    },
+    {
+      "round": 3,
+      "best_reward": 4.353552341461182,
+      "final_mean_reward": 1.9050939083099365,
+      "unique_explored": 2400,
+      "top_genes": [
+        "PCK1",
+        "PLIN4",
+        "LINC02660",
+        "MMP11",
+        "MMP13",
+        "TIMP4",
+        "GRIA4",
+        "METTL11B",
+        "OPRPN",
+        "FP325317.1"
+      ],
+      "critic_continue": true,
+      "elapsed_seconds": 34.3
+    }
+  ],
+  "total_unique": 7200,
+  "best_reward": 4.533015344140602,
+  "best_overlap": 0
+}

@@ -18,7 +18,7 @@ import json
 import os
 
 # --- change this to swap backends ---
-BACKEND = "mock"
+BACKEND = "anthropic"
 # -------------------------------------
 
 

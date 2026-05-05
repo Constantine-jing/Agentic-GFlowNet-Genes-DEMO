@@ -1,0 +1,20 @@
+{
+  "model": "phi3:mini",
+  "dataset": "tcga_brca",
+  "n_samples": 100,
+  "biological_framing": {
+    "real_accuracy": 1.0,
+    "real_std": 0.0,
+    "control_accuracy": 0.496,
+    "control_std": 0.0344,
+    "selectivity": 0.504
+  },
+  "neutral_framing": {
+    "real_accuracy": 0.98,
+    "real_std": 0.0245,
+    "control_accuracy": 0.504,
+    "control_std": 0.072,
+    "selectivity": 0.476
+  },
+  "elapsed_seconds": 501.4
+}

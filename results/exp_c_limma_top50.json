@@ -1,0 +1,11 @@
+{
+  "experiment": "C_limma_top50",
+  "n_subsets": 10,
+  "pearson_r": 1.0,
+  "spearman_r": 1.0,
+  "mean_abs_diff": 0.0,
+  "top5_overlap": 5,
+  "top10_overlap": 10,
+  "top20_overlap": 10,
+  "time_seconds": 26.0
+}

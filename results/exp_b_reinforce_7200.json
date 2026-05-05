@@ -1,0 +1,8 @@
+{
+  "experiment": "B_reinforce_7200",
+  "epochs": 2000,
+  "best_reward": 4.783871173858643,
+  "total_unique": 675,
+  "jaccard_top10": 0.8407,
+  "time_seconds": 197.2
+}

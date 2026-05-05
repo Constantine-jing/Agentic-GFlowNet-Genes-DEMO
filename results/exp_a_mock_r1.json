@@ -1,0 +1,89 @@
+{
+  "experiment": "A_mock_r1.0",
+  "reward_exponent": 1.0,
+  "best_reward": 4.533015344140602,
+  "total_unique": 7200,
+  "jaccard_top10": 0.1051,
+  "rounds": [
+    {
+      "round": 1,
+      "best_reward": 4.533015251159668,
+      "final_mean_reward": 1.8621472120285034,
+      "unique_explored": 2400
+    },
+    {
+      "round": 2,
+      "best_reward": 3.9968197345733643,
+      "final_mean_reward": 1.5122323036193848,
+      "unique_explored": 2400
+    },
+    {
+      "round": 3,
+      "best_reward": 4.3709564208984375,
+      "final_mean_reward": 1.5292201042175293,
+      "unique_explored": 2400
+    }
+  ],
+  "top_genes": [
+    [
+      "PLIN4",
+      31
+    ],
+    [
+      "LINC01614",
+      27
+    ],
+    [
+      "TMEM132C",
+      26
+    ],
+    [
+      "ATP1A2",
+      25
+    ],
+    [
+      "FP325317.1",
+      24
+    ],
+    [
+      "LINC02660",
+      23
+    ],
+    [
+      "MMP13",
+      21
+    ],
+    [
+      "PCOLCE2",
+      17
+    ],
+    [
+      "TIMP4",
+      17
+    ],
+    [
+      "SCARA5",
+      16
+    ],
+    [
+      "IL33",
+      14
+    ],
+    [
+      "H1-3",
+      14
+    ],
+    [
+      "IGHV3-11",
+      13
+    ],
+    [
+      "AC084759.3",
+      13
+    ],
+    [
+      "SOSTDC1",
+      13
+    ]
+  ]
+}
